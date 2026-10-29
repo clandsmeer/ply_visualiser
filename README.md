@@ -1,5 +1,3 @@
-# Utility Repo for Showing ply Point Clouds in Viser
-
 # Installation
 
 I like to use `uv` to manage python environments and packages. However, if you prefer using normal `pip`, that should work too.
